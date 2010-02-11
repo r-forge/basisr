@@ -1,11 +1,12 @@
 Package: basisR
 Type: Package
 Title: Biology of ageing e-Science simulation and simulation system
-Version: 0.1-4
-Date: 2009-08-26 
+Version: 0.1-5
+Date: 2010-02-11 
 Author: Colin Gillespie
 Maintainer: Colin Gillespie <c.gillespie@ncl.ac.uk>
 Description: BASIS is a project developing web-based services for quantitative study of the biology of ageing. BASIS is collaborative, coordinated from the multidisciplinary Institute for Ageing and Health at the University of Newcastle Upon Tyne. See http://www.basis.ncl.ac.uk for more details.
 License: LGPL-3
-Depends: R (>= 2.9.0), XML, RCurl, SSOAP, XMLSchema, methods
+Depends: R (>= 2.9.0), XML, methods
+Imports: RCurl (>= 1.2-1), SSOAP(>= 0.5-2) , XMLSchema(>= 0.1-2), basisR, XML
 Suggests: calibayesR, SBMLModels

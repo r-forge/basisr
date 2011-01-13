@@ -8,5 +8,5 @@ Maintainer: Colin Gillespie <c.gillespie@ncl.ac.uk>
 Description: BASIS is a project developing web-based services for quantitative study of the biology of ageing. BASIS is collaborative, coordinated from the multidisciplinary Institute for Ageing and Health at the University of Newcastle Upon Tyne. See http://www.basis.ncl.ac.uk for more details.
 License: LGPL-3
 Depends: R (>= 2.9.0), XML, methods
-Imports: RCurl (>= 1.2-1), SSOAP(>= 0.5-2) , XMLSchema(>= 0.1-2), basisR, XML
+Imports: RCurl (>= 1.2-1), SSOAP(>= 0.5-2) , XMLSchema(>= 0.1-2), XML
 Suggests: calibayesR, SBMLModels
